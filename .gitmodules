@@ -1,0 +1,3 @@
+[submodule "fraud_dashboard"]
+	path = fraud_dashboard
+	url = https://github.com/hjenkins04/fraud_dashboard.git
